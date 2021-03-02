@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "Stick">
+	<Stroke>
+		<Point X = "716" Y = "-749" T = "0" Pressure = "0" />
+		<Point X = "717" Y = "-746" T = "0" Pressure = "0" />
+		<Point X = "726" Y = "-728" T = "0" Pressure = "0" />
+		<Point X = "741" Y = "-688" T = "0" Pressure = "0" />
+		<Point X = "754" Y = "-614" T = "0" Pressure = "0" />
+		<Point X = "765" Y = "-522" T = "0" Pressure = "0" />
+		<Point X = "772" Y = "-379" T = "0" Pressure = "0" />
+		<Point X = "772" Y = "-352" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "Flat">
+	<Stroke>
+		<Point X = "1613" Y = "-829" T = "0" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "403" Y = "-563" T = "0" Pressure = "0" />
+		<Point X = "404" Y = "-564" T = "0" Pressure = "0" />
+		<Point X = "421" Y = "-564" T = "0" Pressure = "0" />
+		<Point X = "554" Y = "-561" T = "0" Pressure = "0" />
+		<Point X = "746" Y = "-561" T = "0" Pressure = "0" />
+		<Point X = "887" Y = "-561" T = "0" Pressure = "0" />
+		<Point X = "1011" Y = "-561" T = "0" Pressure = "0" />
+		<Point X = "1076" Y = "-561" T = "0" Pressure = "0" />
+		<Point X = "1094" Y = "-561" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

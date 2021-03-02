@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "Meteor">
+	<Stroke>
+		<Point X = "926" Y = "-692" T = "0" Pressure = "0" />
+		<Point X = "926" Y = "-686" T = "0" Pressure = "0" />
+		<Point X = "926" Y = "-660" T = "0" Pressure = "0" />
+		<Point X = "926" Y = "-571" T = "0" Pressure = "0" />
+		<Point X = "926" Y = "-489" T = "0" Pressure = "0" />
+		<Point X = "926" Y = "-458" T = "0" Pressure = "0" />
+		<Point X = "926" Y = "-450" T = "0" Pressure = "0" />
+		<Point X = "926" Y = "-440" T = "0" Pressure = "0" />
+		<Point X = "926" Y = "-435" T = "0" Pressure = "0" />
+		<Point X = "920" Y = "-444" T = "0" Pressure = "0" />
+		<Point X = "908" Y = "-457" T = "0" Pressure = "0" />
+		<Point X = "891" Y = "-478" T = "0" Pressure = "0" />
+		<Point X = "860" Y = "-517" T = "0" Pressure = "0" />
+		<Point X = "852" Y = "-535" T = "0" Pressure = "0" />
+		<Point X = "850" Y = "-537" T = "0" Pressure = "0" />
+		<Point X = "878" Y = "-545" T = "0" Pressure = "0" />
+		<Point X = "912" Y = "-547" T = "0" Pressure = "0" />
+		<Point X = "961" Y = "-547" T = "0" Pressure = "0" />
+		<Point X = "1002" Y = "-547" T = "0" Pressure = "0" />
+		<Point X = "1022" Y = "-547" T = "0" Pressure = "0" />
+		<Point X = "1026" Y = "-548" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

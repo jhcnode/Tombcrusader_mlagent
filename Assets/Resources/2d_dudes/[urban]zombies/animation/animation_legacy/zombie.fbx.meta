@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 867f4bac6d8d8e44891454437d286101
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 2d_bone_1
+    100002: body
+    100004: body_effect1
+    100006: body_effect2
+    100008: body_rot
+    100010: char_1hs_000
+    100012: //RootNode
+    100014: face_hurt
+    100016: face_normal
+    100018: head
+    100020: inarm
+    100022: inarm_down
+    100024: inarm_weapon
+    100026: inleg
+    100028: inleg_down
+    100030: outarm
+    100032: outarm_down
+    100034: outarm_weapon
+    100036: outleg
+    100038: outleg_down
+    100040: root
+    100042: root_effect1
+    100044: root_effect2
+    100046: char_1hs_002
+    100048: humanoids2d_bone
+    100050: humanoids2d_mesh
+    400000: 2d_bone_1
+    400002: body
+    400004: body_effect1
+    400006: body_effect2
+    400008: body_rot
+    400010: char_1hs_000
+    400012: //RootNode
+    400014: face_hurt
+    400016: face_normal
+    400018: head
+    400020: inarm
+    400022: inarm_down
+    400024: inarm_weapon
+    400026: inleg
+    400028: inleg_down
+    400030: outarm
+    400032: outarm_down
+    400034: outarm_weapon
+    400036: outleg
+    400038: outleg_down
+    400040: root
+    400042: root_effect1
+    400044: root_effect2
+    400046: char_1hs_002
+    400048: humanoids2d_bone
+    400050: humanoids2d_mesh
+    4300000: char_1hs_000
+    4300002: char_1hs_002
+    4300004: humanoids2d_mesh
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: char_1hs_000
+    13700002: char_1hs_002
+    13700004: humanoids2d_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

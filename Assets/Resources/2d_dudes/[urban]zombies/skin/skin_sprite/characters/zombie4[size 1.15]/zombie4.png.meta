@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 25ab1049cc1f88248a4342715bf8d333
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: face_normal
+    21300002: face_hurt
+    21300004: body
+    21300006: leg_down
+    21300008: outarm_up
+    21300010: outarm_down
+    21300012: inarm_down
+    21300014: inarm_up
+    21300016: leg_up
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 512
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: face_normal
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 63
+        width: 346
+        height: 381
+      alignment: 9
+      pivot: {x: .419582874, y: .37293607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_hurt
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 63
+        width: 346
+        height: 381
+      alignment: 9
+      pivot: {x: .525650084, y: .374705523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 672
+        width: 278
+        height: 324
+      alignment: 9
+      pivot: {x: .622525454, y: .201435044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leg_down
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 866
+        width: 104
+        height: 146
+      alignment: 9
+      pivot: {x: .601445138, y: .801060915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: outarm_up
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 603
+        width: 101
+        height: 160
+      alignment: 9
+      pivot: {x: .629951715, y: .73522532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: outarm_down
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 618
+        width: 150
+        height: 140
+      alignment: 9
+      pivot: {x: .199977621, y: .618137896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inarm_down
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 837
+        width: 134
+        height: 106
+      alignment: 9
+      pivot: {x: .218155593, y: .497640938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inarm_up
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 806
+        width: 107
+        height: 116
+      alignment: 9
+      pivot: {x: .47369954, y: .798118353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leg_up
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 617
+        width: 87
+        height: 107
+      alignment: 9
+      pivot: {x: .484502673, y: .700000226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
