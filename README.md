@@ -7,4 +7,4 @@ Unity3D Game Demo, Dynamic Gesture Recongition, ML Agent
 # Features
 1. Dynamic Gesture Recognition 
 2. ML Agent
-3. Unity3D Game Demo(EXE link(https://github.com/jhcnode/Tombcrusader_mlagent/releases/download/1.0/Release.zip))
+3. Unity3D Game Demo([EXE link](https://github.com/jhcnode/Tombcrusader_mlagent/releases/download/1.0/Release.zip))
