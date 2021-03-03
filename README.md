@@ -12,3 +12,6 @@ Unity3D Game Demo, Dynamic Gesture Recongition, ML Agent
 # Information 
 1. collected gesture data using leap motion
 2. With a pivot(etc..head direction,front direction), you can use gestures in 3D space. 
+
+# Reference
+[Chae, Ji Hun, et al. "Deep Learning Based 3D Gesture Recognition Using Spatio-Temporal Normalization." Journal of Korea Multimedia Society 21.5 (2018): 626-637.](https://www.koreascience.or.kr/article/JAKO201818564288222.page)
