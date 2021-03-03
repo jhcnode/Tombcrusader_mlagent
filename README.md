@@ -6,5 +6,5 @@ Unity3D Game Demo, Dynamic Gesture Recongition, ML Agent
 
 # Features
 1. Dynamic Gesture Recognition based Deep Neural Networks
-2. ML Agent
+2. Model Serving using ML Agent
 3. Unity3D Game Demo([*.exe link](https://github.com/jhcnode/Tombcrusader_mlagent/releases/download/1.0/Release.zip))
