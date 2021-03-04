@@ -1,11 +1,11 @@
 # Tombcrusader_mlagent
 Gesture Game Demo in Unity3D, Dynamic Gesture Recongitio using ML Agent
 
-## Screenshot([video link](https://youtu.be/0TBjoWunp7Y))
-![crusader](https://user-images.githubusercontent.com/61224394/109902672-1c0b0400-7cde-11eb-9a7e-9bb70b60c3a7.gif)
-
 ## Game(final release version) demo screenshot([video link](https://youtu.be/7pMLIZpnmyk))
 ![그림1](https://user-images.githubusercontent.com/61224394/109665780-e0731b80-7bb1-11eb-8916-f5c9f5092ed9.png)
+
+## Screenshot([video link](https://youtu.be/0TBjoWunp7Y))
+![crusader](https://user-images.githubusercontent.com/61224394/109902672-1c0b0400-7cde-11eb-9a7e-9bb70b60c3a7.gif)
 ### Purpose: Draw gesture and kill zombies.
 
 ## Features
