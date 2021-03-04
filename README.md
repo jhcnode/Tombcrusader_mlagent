@@ -2,6 +2,7 @@
 Unity3D Game Demo, Dynamic Gesture Recongition, ML Agent
 
 # Game Screenshot([video link(final release version)](https://youtu.be/7pMLIZpnmyk))
+![crusader](https://user-images.githubusercontent.com/61224394/109902672-1c0b0400-7cde-11eb-9a7e-9bb70b60c3a7.gif)
 ![그림1](https://user-images.githubusercontent.com/61224394/109665780-e0731b80-7bb1-11eb-8916-f5c9f5092ed9.png)
 
 # Features
