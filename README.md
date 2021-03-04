@@ -6,7 +6,7 @@ Gesture Game Demo in Unity3D, Dynamic Gesture Recognition using ML Agent
 
 ## Screenshot([video link](https://youtu.be/0TBjoWunp7Y))
 ![crusader](https://user-images.githubusercontent.com/61224394/109902672-1c0b0400-7cde-11eb-9a7e-9bb70b60c3a7.gif)
-### Game(demo) Purpose: Draw gesture and kill zombies.
+### Game(demo) Purpose: Draw gesture by mouse and kill zombies.
 
 ## Features
 1. Dynamic Gesture Recognition based Deep Neural Networks
