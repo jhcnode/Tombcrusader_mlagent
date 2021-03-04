@@ -22,6 +22,7 @@ https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space
 
 ## Setup
 1. Unity3D(version>=2018)
+2. Play Demo
 
 ## Reference
 [Chae, Ji Hun, et al. "Deep Learning Based 3D Gesture Recognition Using Spatio-Temporal Normalization." Journal of Korea Multimedia Society 21.5 (2018): 626-637.](https://www.koreascience.or.kr/article/JAKO201818564288222.page)
