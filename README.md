@@ -18,8 +18,8 @@ Unity3D Game Demo, Dynamic Gesture Recongition, ML Agent
 3. Final release version is diffrent form(current demo : DNN based, final release version: K-NN(1$ recognizer) based, only demo!!) 
 
 ## Setup
-1. Unity3D(version>=2018)
-2. Play a demo
+1. Install Unity3D(version>=2018)
+2. Run a unity and play projects
 
 ## Baseline gesture recognition algorithm
 https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space
