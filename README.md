@@ -17,12 +17,12 @@ Unity3D Game Demo, Dynamic Gesture Recongition, ML Agent
 2. With main pivot(etc..head direction,front direction), you can use gestures in 3D space. 
 3. Final release version is diffrent form(current demo : DNN based, final release version: K-NN(1$ recognizer) based)
 
-## Baseline gesture recognition algorithm
-https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space
-
 ## Setup
 1. Unity3D(version>=2018)
 2. Play a demo
+
+## Baseline gesture recognition algorithm
+https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space
 
 ## Reference
 [Chae, Ji Hun, et al. "Deep Learning Based 3D Gesture Recognition Using Spatio-Temporal Normalization." Journal of Korea Multimedia Society 21.5 (2018): 626-637.](https://www.koreascience.or.kr/article/JAKO201818564288222.page)
