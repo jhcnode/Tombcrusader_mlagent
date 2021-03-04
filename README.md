@@ -15,7 +15,7 @@ Unity3D Game Demo, Dynamic Gesture Recongition, ML Agent
 ## Information 
 1. collected gesture data using leap motion
 2. With main pivot(etc..head direction,front direction), you can use gestures in 3D space. 
-3. Final release version is diffrent form(current demo : DNN based, final release version: K-NN based)
+3. Final release version is diffrent form(current demo : DNN based, final release version: K-NN(1$ recognizer) based)
 
 ## Baseline gesture recognition algorithm
 https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space
