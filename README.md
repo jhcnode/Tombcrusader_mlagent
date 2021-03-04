@@ -20,7 +20,7 @@ Gesture Game Demo in Unity3D, Dynamic Gesture Recongitio using ML Agent
 
 ## Setup
 1. Install Unity3D(version>=2018)
-2. Run a unity and play projects
+2. Run unity and play projects
 
 ## Baseline gesture recognition algorithm
 https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space
