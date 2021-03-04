@@ -14,7 +14,7 @@ Gesture Game Demo in Unity3D, Dynamic Gesture Recongitio using ML Agent
 3. **Unity3D Game Demo**([*.exe link](https://github.com/jhcnode/Tombcrusader_mlagent/releases/download/1.0/Release.zip))
 
 ## Information 
-1. collected gesture data using leap motion
+1. Collected gesture data using leap motion
 2. With main pivot(etc..head direction,front direction), you can use gestures in 3D space. 
 3. Final release version is diffrent form(current demo : DNN based, final release version: K-NN(1$ recognizer) based, only demo!!) 
 
