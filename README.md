@@ -1,4 +1,4 @@
-# Tombcrusader_mlagent
+# Tombcrusader_mlagent(Gesture Game Demo)
 Gesture Game Demo in Unity3D, Dynamic Gesture Recognition using ML Agent
 
 ## Game(final release version) demo screenshot([video link](https://youtu.be/7pMLIZpnmyk))
