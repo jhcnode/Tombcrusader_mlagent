@@ -1,5 +1,5 @@
 # Tombcrusader_mlagent
-Unity3D Game Demo, Dynamic Gesture Recongition, ML Agent
+Gesture Game Demo in Unity3D, Dynamic Gesture Recongitio using ML Agent
 
 ## Screenshot([video link](https://youtu.be/0TBjoWunp7Y))
 ![crusader](https://user-images.githubusercontent.com/61224394/109902672-1c0b0400-7cde-11eb-9a7e-9bb70b60c3a7.gif)
