@@ -26,4 +26,4 @@ Gesture Game Demo in Unity3D, Dynamic Gesture Recognition using ML Agent
 https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space
 
 ## Reference
-[Chae, Ji Hun, et al. "Deep Learning Based 3D Gesture Recognition Using Spatio-Temporal Normalization." Journal of Korea Multimedia Society 21.5 (2018): 626-637.]#(https://www.koreascience.or.kr/article/JAKO201818564288222.page)
+[Chae, Ji Hun, et al. "Deep Learning Based 3D Gesture Recognition Using Spatio-Temporal Normalization." Journal of Korea Multimedia Society 21.5 (2018): 626-637.](https://www.koreascience.or.kr/article/JAKO201818564288222.page)
